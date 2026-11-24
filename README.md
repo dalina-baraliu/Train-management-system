@@ -72,10 +72,9 @@ try {
 The prompt masks input and the application inherits the variable from Maven. Keep passwords out of source code, shared configurations, and screenshots.
 
 ## Screenshots
-## Screenshots
 
 ### Login
-![Login Window](docs/screenshots/screenshot-login-page.png)
+![Login Window](docs/screenshots/Screenshot-login-page.png)
 
 ### Dashboard
 ![Train Management Dashboard](docs/screenshots/Screenshot1-dashboard.png)
